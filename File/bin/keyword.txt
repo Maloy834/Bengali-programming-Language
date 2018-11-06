@@ -1,0 +1,8 @@
+﻿  
+সংখ্যা , int 
+ লাইন ,String
+ যদি , if
+ নাহলে ,else
+ লুপ ,While
+ দেখাও,System.out.println
+ শুরু,main
